@@ -1,0 +1,186 @@
+# Notice: Written By Collins Onyetube
+
+User-agent: Applebot
+Allow: /about-us.php
+Allow: /blog.php
+Allow: /blog_post.php
+Allow: /contact.php
+Allow: /home.php
+Allow: /portfolio.php
+Allow: /cms/assets/uploads/blogs/
+Allow: /cms/assets/uploads/galleries/
+Allow: /cms/assets/uploads/logos/
+Allow: /cms/assets/uploads/sliders/
+Allow: /cms/assets/uploads/contents/
+
+User-agent: baiduspider
+Allow: /about-us.php
+Allow: /blog.php
+Allow: /blog_post.php
+Allow: /contact.php
+Allow: /home.php
+Allow: /portfolio.php
+Allow: /cms/assets/uploads/blogs/
+Allow: /cms/assets/uploads/galleries/
+Allow: /cms/assets/uploads/logos/
+Allow: /cms/assets/uploads/sliders/
+Allow: /cms/assets/uploads/contents/
+
+User-agent: Bingbot
+Allow: /about-us.php
+Allow: /blog.php
+Allow: /blog_post.php
+Allow: /contact.php
+Allow: /home.php
+Allow: /portfolio.php
+Allow: /cms/assets/uploads/blogs/
+Allow: /cms/assets/uploads/galleries/
+Allow: /cms/assets/uploads/logos/
+Allow: /cms/assets/uploads/sliders/
+Allow: /cms/assets/uploads/contents/
+
+User-agent: Googlebot
+Allow: /about-us.php
+Allow: /blog.php
+Allow: /blog_post.php
+Allow: /contact.php
+Allow: /home.php
+Allow: /portfolio.php
+Allow: /cms/assets/uploads/blogs/
+Allow: /cms/assets/uploads/galleries/
+Allow: /cms/assets/uploads/logos/
+Allow: /cms/assets/uploads/sliders/
+Allow: /cms/assets/uploads/contents/
+
+User-agent: ia_archiver
+Allow: /about-us.php
+Allow: /blog.php
+Allow: /blog_post.php
+Allow: /contact.php
+Allow: /home.php
+Allow: /portfolio.php
+Allow: /cms/assets/uploads/blogs/
+Allow: /cms/assets/uploads/galleries/
+Allow: /cms/assets/uploads/logos/
+Allow: /cms/assets/uploads/sliders/
+Allow: /cms/assets/uploads/contents/
+
+User-agent: msnbot
+Allow: /about-us.php
+Allow: /blog.php
+Allow: /blog_post.php
+Allow: /contact.php
+Allow: /home.php
+Allow: /portfolio.php
+Allow: /cms/assets/uploads/blogs/
+Allow: /cms/assets/uploads/galleries/
+Allow: /cms/assets/uploads/logos/
+Allow: /cms/assets/uploads/sliders/
+Allow: /cms/assets/uploads/contents/
+
+User-agent: Naverbot
+Allow: /about-us.php
+Allow: /blog.php
+Allow: /blog_post.php
+Allow: /contact.php
+Allow: /home.php
+Allow: /portfolio.php
+Allow: /cms/assets/uploads/blogs/
+Allow: /cms/assets/uploads/galleries/
+Allow: /cms/assets/uploads/logos/
+Allow: /cms/assets/uploads/sliders/
+Allow: /cms/assets/uploads/contents/
+
+User-agent: seznambot
+Allow: /about-us.php
+Allow: /blog.php
+Allow: /blog_post.php
+Allow: /contact.php
+Allow: /home.php
+Allow: /portfolio.php
+Allow: /cms/assets/uploads/blogs/
+Allow: /cms/assets/uploads/galleries/
+Allow: /cms/assets/uploads/logos/
+Allow: /cms/assets/uploads/sliders/
+Allow: /cms/assets/uploads/contents/
+
+User-agent: Slurp
+Allow: /about-us.php
+Allow: /blog.php
+Allow: /blog_post.php
+Allow: /contact.php
+Allow: /home.php
+Allow: /portfolio.php
+Allow: /cms/assets/uploads/blogs/
+Allow: /cms/assets/uploads/galleries/
+Allow: /cms/assets/uploads/logos/
+Allow: /cms/assets/uploads/sliders/
+Allow: /cms/assets/uploads/contents/
+
+User-agent: teoma
+Allow: /about-us.php
+Allow: /blog.php
+Allow: /blog_post.php
+Allow: /contact.php
+Allow: /home.php
+Allow: /portfolio.php
+Allow: /cms/assets/uploads/blogs/
+Allow: /cms/assets/uploads/galleries/
+Allow: /cms/assets/uploads/logos/
+Allow: /cms/assets/uploads/sliders/
+Allow: /cms/assets/uploads/contents/
+
+User-agent: Twitterbot
+Allow: /about-us.php
+Allow: /blog.php
+Allow: /blog_post.php
+Allow: /contact.php
+Allow: /home.php
+Allow: /portfolio.php
+Allow: /cms/assets/uploads/blogs/
+Allow: /cms/assets/uploads/galleries/
+Allow: /cms/assets/uploads/logos/
+Allow: /cms/assets/uploads/sliders/
+Allow: /cms/assets/uploads/contents/
+
+User-agent: Yandex
+Allow: /about-us.php
+Allow: /blog.php
+Allow: /blog_post.php
+Allow: /contact.php
+Allow: /home.php
+Allow: /portfolio.php
+Allow: /cms/assets/uploads/blogs/
+Allow: /cms/assets/uploads/galleries/
+Allow: /cms/assets/uploads/logos/
+Allow: /cms/assets/uploads/sliders/
+Allow: /cms/assets/uploads/contents/
+
+User-agent: Yeti
+Allow: /about-us.php
+Allow: /blog.php
+Allow: /blog_post.php
+Allow: /contact.php
+Allow: /home.php
+Allow: /portfolio.php
+Allow: /cms/assets/uploads/blogs/
+Allow: /cms/assets/uploads/galleries/
+Allow: /cms/assets/uploads/logos/
+Allow: /cms/assets/uploads/sliders/
+Allow: /cms/assets/uploads/contents/
+
+User-agent: Twitterbot
+Allow: /cms/assets/uploads/blogs/
+Allow: /cms/assets/uploads/galleries/
+Allow: /cms/assets/uploads/logos/
+Allow: /cms/assets/uploads/sliders/
+Allow: /cms/assets/uploads/contents/
+
+User-agent: facebookexternalhit
+Allow: /cms/assets/uploads/blogs/
+Allow: /cms/assets/uploads/galleries/
+Allow: /cms/assets/uploads/logos/
+Allow: /cms/assets/uploads/sliders/
+Allow: /cms/assets/uploads/contents/
+
+Sitemap: https://www.joshseas.com/sitemap.xml
